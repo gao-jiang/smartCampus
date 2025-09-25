@@ -1,7 +1,7 @@
 #ifndef SHUTTLE_SERVICE_H
 #define SHUTTLE_SERVICE_H
 
-#include <queue>
+#include "myqueue.h"
 #include <string>
 #include <unordered_map>
 #include <vector>
@@ -29,7 +29,7 @@ struct ShuttlePersistentState {
  */
 class ShuttleService {
 private:
-    std::unordered_map<std::string, std::queue<std::string>> stationQueues;  ///< 各站点的乘客排队队列
+    std::unordered_map<std::string, MyQueue<std::string>> stationQueues;  ///< 各站点的乘客排队队列
     std::vector<std::string> onboardPassengers;                             ///< 当前车上的乘客列表
     std::vector<std::string> dropoffHistory;                                ///< 乘客下车历史记录
 

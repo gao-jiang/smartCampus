@@ -120,11 +120,52 @@ CMakeFiles/smartCampus.dir/main.cpp.obj: \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/ScheduleManager.h \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/SearchManager.h \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/ShuttleService.h \
- C:/msys64/mingw64/include/c++/15.2.0/queue \
- C:/msys64/mingw64/include/c++/15.2.0/deque \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_deque.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/deque.tcc \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_heap.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_queue.h \
+ C:/Users/86166/Desktop/Cpp/smartCampus/include/myqueue.h \
+ C:/msys64/mingw64/include/c++/15.2.0/iostream \
+ C:/msys64/mingw64/include/c++/15.2.0/ostream \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.h \
+ C:/msys64/mingw64/include/c++/15.2.0/ios \
+ C:/msys64/mingw64/include/c++/15.2.0/exception \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/exception_ptr.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
+ C:/msys64/mingw64/include/c++/15.2.0/typeinfo \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/nested_exception.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ios_base.h \
+ C:/msys64/mingw64/include/c++/15.2.0/ext/atomicity.h \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
+ C:/msys64/mingw64/include/pthread.h \
+ C:/msys64/mingw64/include/sys/types.h \
+ C:/msys64/mingw64/include/process.h \
+ C:/msys64/mingw64/include/corecrt_startup.h \
+ C:/msys64/mingw64/include/signal.h \
+ C:/msys64/mingw64/include/pthread_signal.h \
+ C:/msys64/mingw64/include/time.h C:/msys64/mingw64/include/sys/timeb.h \
+ C:/msys64/mingw64/include/sec_api/sys/timeb_s.h \
+ C:/msys64/mingw64/include/_timeval.h \
+ C:/msys64/mingw64/include/pthread_time.h \
+ C:/msys64/mingw64/include/pthread_compat.h \
+ C:/msys64/mingw64/include/sched.h \
+ C:/msys64/mingw64/include/pthread_unistd.h \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/locale_classes.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/locale_classes.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/system_error \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/error_constants.h \
+ C:/msys64/mingw64/include/c++/15.2.0/stdexcept \
+ C:/msys64/mingw64/include/c++/15.2.0/streambuf \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/streambuf.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.h \
+ C:/msys64/mingw64/include/c++/15.2.0/cwctype \
+ C:/msys64/mingw64/include/wctype.h \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/streambuf_iterator.h \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_inline.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/istream \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/istream.tcc \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/SmartCampusMenu.h \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/SmartCampusAssistant.h

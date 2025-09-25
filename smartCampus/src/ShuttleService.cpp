@@ -10,7 +10,7 @@
 // 参数：stationName - 站点名称
 void ShuttleService::addStation(const std::string& stationName) {
     // 为新站点创建一个空的乘客队列
-    stationQueues.emplace(stationName, std::queue<std::string>());
+    stationQueues.emplace(stationName, MyQueue<std::string>());
 }
 
 // 乘客加入指定站点的候车队列
@@ -110,7 +110,7 @@ ShuttlePersistentState ShuttleService::exportState() const {
     // 遍历所有站点队列，将队列转换为向量格式
     for (const auto& kv : stationQueues) {
         // 复制队列以避免修改原队列
-        std::queue<std::string> copy = kv.second;
+        MyQueue<std::string> copy = kv.second;
         std::vector<std::string> passengers;
         passengers.reserve(copy.size());
         
@@ -141,7 +141,7 @@ void ShuttleService::loadState(const ShuttlePersistentState& state) {
     
     // 恢复所有站点的候车队列
     for (const auto& kv : state.queues) {
-        std::queue<std::string> q;
+        MyQueue<std::string> q;
         // 将向量中的乘客依次加入队列
         for (const auto& passenger : kv.second) {
             q.push(passenger);

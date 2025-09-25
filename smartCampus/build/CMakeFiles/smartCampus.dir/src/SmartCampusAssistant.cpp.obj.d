@@ -120,38 +120,17 @@ CMakeFiles/smartCampus.dir/src/SmartCampusAssistant.cpp.obj: \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/ScheduleManager.h \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/SearchManager.h \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/ShuttleService.h \
- C:/msys64/mingw64/include/c++/15.2.0/queue \
- C:/msys64/mingw64/include/c++/15.2.0/deque \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_deque.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/deque.tcc \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_heap.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_queue.h \
- C:/msys64/mingw64/include/c++/15.2.0/filesystem \
- C:/msys64/mingw64/include/c++/15.2.0/bits/fs_fwd.h \
- C:/msys64/mingw64/include/c++/15.2.0/system_error \
- C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/error_constants.h \
- C:/msys64/mingw64/include/c++/15.2.0/stdexcept \
+ C:/Users/86166/Desktop/Cpp/smartCampus/include/myqueue.h \
+ C:/msys64/mingw64/include/c++/15.2.0/iostream \
+ C:/msys64/mingw64/include/c++/15.2.0/ostream \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.h \
+ C:/msys64/mingw64/include/c++/15.2.0/ios \
  C:/msys64/mingw64/include/c++/15.2.0/exception \
  C:/msys64/mingw64/include/c++/15.2.0/bits/exception_ptr.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
  C:/msys64/mingw64/include/c++/15.2.0/typeinfo \
  C:/msys64/mingw64/include/c++/15.2.0/bits/nested_exception.h \
- C:/msys64/mingw64/include/c++/15.2.0/cstdint \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
- C:/msys64/mingw64/include/stdint.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/chrono.h \
- C:/msys64/mingw64/include/c++/15.2.0/ratio \
- C:/msys64/mingw64/include/c++/15.2.0/limits \
- C:/msys64/mingw64/include/c++/15.2.0/ctime \
- C:/msys64/mingw64/include/time.h C:/msys64/mingw64/include/sys/timeb.h \
- C:/msys64/mingw64/include/sec_api/sys/timeb_s.h \
- C:/msys64/mingw64/include/_timeval.h \
- C:/msys64/mingw64/include/pthread_time.h \
- C:/msys64/mingw64/include/pthread_compat.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/parse_numbers.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/fs_path.h \
- C:/msys64/mingw64/include/c++/15.2.0/locale \
- C:/msys64/mingw64/include/c++/15.2.0/bits/locale_classes.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ios_base.h \
  C:/msys64/mingw64/include/c++/15.2.0/ext/atomicity.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
@@ -161,20 +140,45 @@ CMakeFiles/smartCampus.dir/src/SmartCampusAssistant.cpp.obj: \
  C:/msys64/mingw64/include/corecrt_startup.h \
  C:/msys64/mingw64/include/signal.h \
  C:/msys64/mingw64/include/pthread_signal.h \
+ C:/msys64/mingw64/include/time.h C:/msys64/mingw64/include/sys/timeb.h \
+ C:/msys64/mingw64/include/sec_api/sys/timeb_s.h \
+ C:/msys64/mingw64/include/_timeval.h \
+ C:/msys64/mingw64/include/pthread_time.h \
+ C:/msys64/mingw64/include/pthread_compat.h \
  C:/msys64/mingw64/include/sched.h \
  C:/msys64/mingw64/include/pthread_unistd.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/locale_classes.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/locale_classes.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/system_error \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/error_constants.h \
+ C:/msys64/mingw64/include/c++/15.2.0/stdexcept \
+ C:/msys64/mingw64/include/c++/15.2.0/streambuf \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/streambuf.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.h \
  C:/msys64/mingw64/include/c++/15.2.0/cwctype \
  C:/msys64/mingw64/include/wctype.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/ios_base.h \
- C:/msys64/mingw64/include/c++/15.2.0/streambuf \
- C:/msys64/mingw64/include/c++/15.2.0/bits/streambuf.tcc \
  C:/msys64/mingw64/include/c++/15.2.0/bits/streambuf_iterator.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_inline.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/istream \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/istream.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/filesystem \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/fs_fwd.h \
+ C:/msys64/mingw64/include/c++/15.2.0/cstdint \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+ C:/msys64/mingw64/include/stdint.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/chrono.h \
+ C:/msys64/mingw64/include/c++/15.2.0/ratio \
+ C:/msys64/mingw64/include/c++/15.2.0/limits \
+ C:/msys64/mingw64/include/c++/15.2.0/ctime \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/parse_numbers.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/fs_path.h \
+ C:/msys64/mingw64/include/c++/15.2.0/locale \
  C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets_nonio.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/time_members.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/messages_members.h \
@@ -184,14 +188,6 @@ CMakeFiles/smartCampus.dir/src/SmartCampusAssistant.cpp.obj: \
  C:/msys64/mingw64/include/c++/15.2.0/iomanip \
  C:/msys64/mingw64/include/c++/15.2.0/bits/quoted_string.h \
  C:/msys64/mingw64/include/c++/15.2.0/sstream \
- C:/msys64/mingw64/include/c++/15.2.0/istream \
- C:/msys64/mingw64/include/c++/15.2.0/ios \
- C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.tcc \
- C:/msys64/mingw64/include/c++/15.2.0/ostream \
- C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.tcc \
- C:/msys64/mingw64/include/c++/15.2.0/bits/istream.tcc \
  C:/msys64/mingw64/include/c++/15.2.0/bits/sstream.tcc \
  C:/msys64/mingw64/include/c++/15.2.0/codecvt \
  C:/msys64/mingw64/include/c++/15.2.0/ext/concurrence.h \
@@ -205,7 +201,6 @@ CMakeFiles/smartCampus.dir/src/SmartCampusAssistant.cpp.obj: \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/basic_file.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++io.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/fstream.tcc \
- C:/msys64/mingw64/include/c++/15.2.0/iostream \
  C:/msys64/mingw64/include/c++/15.2.0/map \
  C:/msys64/mingw64/include/c++/15.2.0/bits/stl_tree.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/stl_map.h \

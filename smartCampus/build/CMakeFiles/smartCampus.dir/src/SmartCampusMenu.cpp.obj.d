@@ -121,21 +121,16 @@ CMakeFiles/smartCampus.dir/src/SmartCampusMenu.cpp.obj: \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/ScheduleManager.h \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/SearchManager.h \
  C:/Users/86166/Desktop/Cpp/smartCampus/include/ShuttleService.h \
- C:/msys64/mingw64/include/c++/15.2.0/queue \
- C:/msys64/mingw64/include/c++/15.2.0/deque \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_deque.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/deque.tcc \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_heap.h \
- C:/msys64/mingw64/include/c++/15.2.0/bits/stl_queue.h \
+ C:/Users/86166/Desktop/Cpp/smartCampus/include/myqueue.h \
+ C:/msys64/mingw64/include/c++/15.2.0/iostream \
+ C:/msys64/mingw64/include/c++/15.2.0/ostream \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.h \
+ C:/msys64/mingw64/include/c++/15.2.0/ios \
  C:/msys64/mingw64/include/c++/15.2.0/exception \
  C:/msys64/mingw64/include/c++/15.2.0/bits/exception_ptr.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
  C:/msys64/mingw64/include/c++/15.2.0/typeinfo \
  C:/msys64/mingw64/include/c++/15.2.0/bits/nested_exception.h \
- C:/msys64/mingw64/include/c++/15.2.0/iostream \
- C:/msys64/mingw64/include/c++/15.2.0/ostream \
- C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.h \
- C:/msys64/mingw64/include/c++/15.2.0/ios \
  C:/msys64/mingw64/include/c++/15.2.0/bits/ios_base.h \
  C:/msys64/mingw64/include/c++/15.2.0/ext/atomicity.h \
  C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h \
