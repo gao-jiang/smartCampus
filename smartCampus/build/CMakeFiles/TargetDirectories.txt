@@ -1,0 +1,3 @@
+C:/Users/86166/Desktop/Cpp/smartCampus/build/CMakeFiles/smartCampus.dir
+C:/Users/86166/Desktop/Cpp/smartCampus/build/CMakeFiles/edit_cache.dir
+C:/Users/86166/Desktop/Cpp/smartCampus/build/CMakeFiles/rebuild_cache.dir
